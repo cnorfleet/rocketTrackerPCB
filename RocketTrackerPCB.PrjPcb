@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EFNECNAJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RocketTrackerPCB\Design Rule Check - Top.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
